@@ -1,0 +1,82 @@
+
+A woman and a girl in a grocery store
+A woman holding a phone
+A woman wearing a purple hat
+A person holding a piece of food
+A person wearing a purple hat
+A woman and a girl in a grocery store
+
+{
+  "apim-request-id": "ffef5230-a80f-4e3a-a359-4f8fa8cdcf71",
+  "content-length": "828",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "denseCaptionsResult": {
+    "values": [
+      {
+        "text": "a woman and a girl in a grocery store",
+        "confidence": 0.7890357375144958,
+        "boundingBox": {
+          "x": 0,
+          "y": 0,
+          "w": 600,
+          "h": 399
+        }
+      },
+      {
+        "text": "a woman holding a phone",
+        "confidence": 0.7343791127204895,
+        "boundingBox": {
+          "x": 117,
+          "y": 26,
+          "w": 197,
+          "h": 337
+        }
+      },
+      {
+        "text": "a woman wearing a purple hat",
+        "confidence": 0.7235691547393799,
+        "boundingBox": {
+          "x": 275,
+          "y": 176,
+          "w": 253,
+          "h": 215
+        }
+      },
+      {
+        "text": "a person holding a piece of food",
+        "confidence": 0.7399400472640991,
+        "boundingBox": {
+          "x": 411,
+          "y": 145,
+          "w": 91,
+          "h": 68
+        }
+      },
+      {
+        "text": "a person wearing a purple hat",
+        "confidence": 0.7675368189811707,
+        "boundingBox": {
+          "x": 389,
+          "y": 188,
+          "w": 131,
+          "h": 124
+        }
+      },
+      {
+        "text": "a woman and a girl in a grocery store",
+        "confidence": 0.764896035194397,
+        "boundingBox": {
+          "x": 0,
+          "y": 0,
+          "w": 588,
+          "h": 389
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "width": 600,
+    "height": 399
+  }
+}

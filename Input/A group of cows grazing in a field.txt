@@ -1,0 +1,125 @@
+A group of cows grazing in a field
+A cow eating grass in a field
+A cow walking in a field
+A group of cows grazing in a field
+A cow eating grass in a field
+A blurry image of a tree
+A close-up of a field
+A blurry image of a cow eating grass
+A close-up of a horse's legs
+A close up of a horse's legs
+
+{
+  "apim-request-id": "989b1764-4492-4e8c-b15a-25a2f9219bd4",
+  "content-length": "1281",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "denseCaptionsResult": {
+    "values": [
+      {
+        "text": "a group of cows grazing in a field",
+        "confidence": 0.8570630550384521,
+        "boundingBox": {
+          "x": 0,
+          "y": 0,
+          "w": 375,
+          "h": 250
+        }
+      },
+      {
+        "text": "a cow eating grass in a field",
+        "confidence": 0.7407749891281128,
+        "boundingBox": {
+          "x": 254,
+          "y": 49,
+          "w": 87,
+          "h": 155
+        }
+      },
+      {
+        "text": "a cow walking in a field",
+        "confidence": 0.6899219155311584,
+        "boundingBox": {
+          "x": 146,
+          "y": 46,
+          "w": 69,
+          "h": 110
+        }
+      },
+      {
+        "text": "a group of cows grazing in a field",
+        "confidence": 0.8274183869361877,
+        "boundingBox": {
+          "x": 12,
+          "y": 34,
+          "w": 341,
+          "h": 180
+        }
+      },
+      {
+        "text": "a cow eating grass in a field",
+        "confidence": 0.774006187915802,
+        "boundingBox": {
+          "x": 25,
+          "y": 43,
+          "w": 63,
+          "h": 56
+        }
+      },
+      {
+        "text": "a blurry image of a tree",
+        "confidence": 0.6715459823608398,
+        "boundingBox": {
+          "x": 0,
+          "y": 0,
+          "w": 367,
+          "h": 50
+        }
+      },
+      {
+        "text": "a close-up of a field",
+        "confidence": 0.7528969049453735,
+        "boundingBox": {
+          "x": 66,
+          "y": 166,
+          "w": 138,
+          "h": 81
+        }
+      },
+      {
+        "text": "a blurry image of a cow eating grass",
+        "confidence": 0.8152649998664856,
+        "boundingBox": {
+          "x": 287,
+          "y": 141,
+          "w": 58,
+          "h": 66
+        }
+      },
+      {
+        "text": "a close-up of a horse's legs",
+        "confidence": 0.7739366292953491,
+        "boundingBox": {
+          "x": 14,
+          "y": 126,
+          "w": 219,
+          "h": 120
+        }
+      },
+      {
+        "text": "a close up of a horse's legs",
+        "confidence": 0.764837920665741,
+        "boundingBox": {
+          "x": 256,
+          "y": 134,
+          "w": 55,
+          "h": 75
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "width": 375,
+    "height": 250
+  }
+}

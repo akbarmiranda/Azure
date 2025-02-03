@@ -1,0 +1,103 @@
+A man holding a surfboard on a rock
+A man holding a surfboard
+A man holding a surfboard
+A body of water with waves
+A person walking on a rock
+A man holding a surfboard
+A green grass on a rock by the water
+A man holding a surfboard
+
+{
+  "apim-request-id": "4ef3b325-d610-40de-99ec-040d1e3cf539",
+  "content-length": "1039",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "denseCaptionsResult": {
+    "values": [
+      {
+        "text": "a man holding a surfboard on a rock",
+        "confidence": 0.8628536462783813,
+        "boundingBox": {
+          "x": 0,
+          "y": 0,
+          "w": 375,
+          "h": 250
+        }
+      },
+      {
+        "text": "a man holding a surfboard",
+        "confidence": 0.848857581615448,
+        "boundingBox": {
+          "x": 117,
+          "y": 69,
+          "w": 91,
+          "h": 67
+        }
+      },
+      {
+        "text": "a man holding a surfboard",
+        "confidence": 0.867679238319397,
+        "boundingBox": {
+          "x": 104,
+          "y": 45,
+          "w": 113,
+          "h": 122
+        }
+      },
+      {
+        "text": "a body of water with waves",
+        "confidence": 0.7915604114532471,
+        "boundingBox": {
+          "x": 266,
+          "y": 179,
+          "w": 106,
+          "h": 50
+        }
+      },
+      {
+        "text": "a person walking on a rock",
+        "confidence": 0.797256350517273,
+        "boundingBox": {
+          "x": 0,
+          "y": 132,
+          "w": 287,
+          "h": 113
+        }
+      },
+      {
+        "text": "a man holding a surfboard",
+        "confidence": 0.8734315037727356,
+        "boundingBox": {
+          "x": 0,
+          "y": 0,
+          "w": 369,
+          "h": 173
+        }
+      },
+      {
+        "text": "a green grass on a rock by the water",
+        "confidence": 0.5906348824501038,
+        "boundingBox": {
+          "x": 268,
+          "y": 197,
+          "w": 105,
+          "h": 53
+        }
+      },
+      {
+        "text": "a man holding a surfboard",
+        "confidence": 0.883373498916626,
+        "boundingBox": {
+          "x": 86,
+          "y": 43,
+          "w": 185,
+          "h": 154
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "width": 375,
+    "height": 250
+  }
+}
